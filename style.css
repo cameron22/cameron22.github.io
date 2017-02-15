@@ -1,0 +1,56 @@
+body {
+	font-family: 'VT323', monospace;
+
+}
+
+h1 { 
+	font-size:  50px;
+} 
+
+p {
+	font-size: 25px;
+}
+
+.truck {
+	font-size: 24px;
+}
+
+#button {
+	font-size: 15px;
+}
+
+#button {
+	background: red;
+}
+
+
+#after_submit {
+	visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
